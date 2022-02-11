@@ -1,0 +1,3 @@
+int a , b = 10 ;
+char c = ' d ' ;
+double Add ( double x , double y )
